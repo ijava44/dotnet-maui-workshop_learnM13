@@ -6,7 +6,7 @@
              FlyoutBehavior="Disabled">
 
 
-
+   
     <Shell.Resources>
         <ResourceDictionary>
             <Style x:Key="BaseStyle" TargetType="Element">
