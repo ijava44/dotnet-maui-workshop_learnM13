@@ -57,7 +57,7 @@
                         <Image Source="{Binding Image}" WidthRequest="100" HeightRequest="100" Aspect="AspectFill" />
                     <VerticalStackLayout Padding ="15" Spacing="5">
                         <Label Text="{Binding Name}" FontSize="24" />
-                        <Label Text="{Binding Location}" FontSize="10" />
+                        <Label Text="{Binding Location}" FontSize="16   " />
                     </VerticalStackLayout> 
                     </HorizontalStackLayout >    
                 </DataTemplate>
